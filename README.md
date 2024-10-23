@@ -1,11 +1,8 @@
 -<html>
-<head>
-  
-</head>
 <body>
-- <h1><center>Hi,👋I’m @krishnabagavan</center></h1>h1>
-- <h3>👀 Aspiring Full Stack Web Developer...</h3>
-- 🌱 I’m currently learning ...
+- <h1><center>Hi,👋I’m M.Krishna Bagavan</center></h1>h1>
+- <h3><center>👀 Aspiring Full Stack Web Developer...</center></h3>
+- 🌱 I’m currently learning MERN Stack Developement in Masai School
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
