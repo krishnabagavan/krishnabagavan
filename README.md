@@ -58,7 +58,7 @@
 
    <a href="https://app.netlify.com/teams/krishnabagavan/sites" target="_blank">
   </a>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrvwgpiqc9FrNeVcW-NQekpPIwIcktyys_nw&s   height="100px width="100px">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrvwgpiqc9FrNeVcW-NQekpPIwIcktyys_nw&s   height="300px width="300px">
 
  
   <br>
