@@ -53,8 +53,12 @@
 <h4> Connect with me🤝: <h4>
   </hr>
   <a href="www.linkedin.com/in/krishna-bagavan-270330258" target="_blank">
+    
    <img align="left" alt=" Krishna Bagavan | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+
+   <a href="https://app.netlify.com/teams/krishnabagavan/sites" target="_blank">
   </a>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrvwgpiqc9FrNeVcW-NQekpPIwIcktyys_nw&s">
 
  
   <br>
