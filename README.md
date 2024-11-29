@@ -56,6 +56,8 @@
     
    <img align="left" alt=" Krishna Bagavan | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 
+   </a>
+
 
  
   <br>
