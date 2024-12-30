@@ -2,7 +2,7 @@
 <body>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Myself Krishna Bagavan</h1>
 <p color="#fbb400" align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science,student;Full+Stack+Web+Developer;Aspiring+Learner&center=true&width=500&height=50"></a>
+  <a href="https://github.com/krishnabagavan"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science,student;Full+Stack+Web+Developer;Aspiring+Learner&center=true&width=500&height=50"></a>
 </p>
 
 <p align="center">
